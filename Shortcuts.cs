@@ -1,3 +1,9 @@
+/*
+Opens a certain applciation the user wants
+Asks the user to enter a number from 1-6
+If the user enters 1, Microsoft Word opens up.
+*/
+
 using System;
 using System.Diagnostics;
 
